@@ -1,0 +1,47 @@
+﻿using InventoryManagement.Enums;
+using Microsoft.AspNetCore.Http;
+using System;
+
+namespace InventoryManagement.Features.Employees.Models
+{
+    public class AddEmployee
+    {
+        public string EmployeeId { get; set; }
+        public UserTypes UserType { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string MiddleName { get; set; }
+        public DateTime BirthDate { get; set; }
+        public string Sex { get; set; }
+        public string Address { get; set; }
+        public DateTime EmployedDate { get; set; }
+        public string Email { get; set; }
+        
+    }
+    public class AddEmployees
+    {
+        public string Id { get; set; }
+        public string EmployeeId { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Email { get; set; }
+        public string Image { get; set; }
+
+    }
+    public class EmployeeDetails<T>
+    {
+        public T Image { get; set; }
+        public string EmployeeId { get; set; }
+        public string UserType { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string MiddleName { get; set; }
+        public DateTime? BirthDate { get; set; }
+        public int? Age { get; set; }
+        public string Sex { get; set; }
+        public string Address { get; set; }
+        public DateTime? EmployedDate { get; set; }
+        public string Email { get; set; }
+
+    }
+}

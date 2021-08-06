@@ -1,0 +1,4504 @@
+{
+  "employee": [
+    {
+      "id": "00000000-0000-0000-0000-000000000004",
+      "firstName": "Levi",
+      "lastName": "Deang",
+      "employeeId": "YOO-001",
+      "email": "levid@yoonet.com",
+      "image": "0"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "firstName": "Kelvin",
+      "lastName": "Viray",
+      "employeeId": "YOO-002",
+      "email": "kelvin.yoonet@gmail.com",
+      "image": "1"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000002",
+      "firstName": "John",
+      "lastName": "Dela Cruz",
+      "employeeId": "YOO-003",
+      "email": "johndc@yoonet.com",
+      "image": "2"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000003",
+      "firstName": "Val",
+      "lastName": "Moratalla",
+      "employeeId": "YOO-004",
+      "email": "valm@yoonet.com",
+      "image": "3"
+    },
+    {
+      "id": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "firstName": "Aleece",
+      "lastName": "Pogosian",
+      "employeeId": "YOO-0005",
+      "email": "apogosian0@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "e240bc24-1ccf-48d8-a276-22565adea6d7",
+      "firstName": "Georgianne",
+      "lastName": "Addeycott",
+      "employeeId": "YOO-0006",
+      "email": "gaddeycott1@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "firstName": "Gwynne",
+      "lastName": "Brandacci",
+      "employeeId": "YOO-0007",
+      "email": "gbrandacci2@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "firstName": "Helaina",
+      "lastName": "Watton",
+      "employeeId": "YOO-0008",
+      "email": "hwatton3@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "293052b3-4cec-423f-9e3e-8cfaf5115220",
+      "firstName": "Lisa",
+      "lastName": "Blackater",
+      "employeeId": "YOO-0009",
+      "email": "lblackater4@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "93beb1e2-83ee-4c8d-afc9-97e024d0acbb",
+      "firstName": "Jade",
+      "lastName": "Skettles",
+      "employeeId": "YOO-0010",
+      "email": "jskettles5@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "6f94ad0d-a700-464f-9358-b8b7a79f62cd",
+      "firstName": "Leila",
+      "lastName": "Boxhill",
+      "employeeId": "YOO-0011",
+      "email": "lboxhill6@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "96b9cbeb-de69-497a-b9d6-3830965bbf8d",
+      "firstName": "Loise",
+      "lastName": "Chapiro",
+      "employeeId": "YOO-0012",
+      "email": "lchapiro7@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "d5d3a5f0-aca7-45ff-a0f6-732cbe8914be",
+      "firstName": "Laney",
+      "lastName": "Bullus",
+      "employeeId": "YOO-0013",
+      "email": "lbullus8@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "0d56f30f-11df-4aed-8e39-c884581c0815",
+      "firstName": "Ethelin",
+      "lastName": "Yves",
+      "employeeId": "YOO-0014",
+      "email": "eyves9@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "firstName": "Oswell",
+      "lastName": "Scown",
+      "employeeId": "YOO-0015",
+      "email": "oscowna@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "firstName": "Amalia",
+      "lastName": "MacAskill",
+      "employeeId": "YOO-0016",
+      "email": "amacaskillb@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "firstName": "Goldina",
+      "lastName": "Elston",
+      "employeeId": "YOO-0017",
+      "email": "gelstonc@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "bbeb1055-4a10-4147-9339-b56330342112",
+      "firstName": "Florrie",
+      "lastName": "Freeburn",
+      "employeeId": "YOO-0018",
+      "email": "ffreeburnd@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "0b2f2c81-9f5d-475e-aa87-8ff4cda5d45f",
+      "firstName": "Fleur",
+      "lastName": "Raigatt",
+      "employeeId": "YOO-0019",
+      "email": "fraigatte@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "f75a1058-83ff-4538-a398-08eca2262781",
+      "firstName": "Marius",
+      "lastName": "Chrisp",
+      "employeeId": "YOO-0020",
+      "email": "mchrispf@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "firstName": "Sollie",
+      "lastName": "Tures",
+      "employeeId": "YOO-0021",
+      "email": "sturesg@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "firstName": "Justus",
+      "lastName": "Chown",
+      "employeeId": "YOO-0022",
+      "email": "jchownh@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "9c8832d5-9f3c-47c2-9c3b-2c088411f3e7",
+      "firstName": "Cam",
+      "lastName": "Mathelin",
+      "employeeId": "YOO-0023",
+      "email": "cmathelini@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "4165a21f-477a-4dfb-a39d-7db2b2ccc144",
+      "firstName": "Noll",
+      "lastName": "Lomen",
+      "employeeId": "YOO-0024",
+      "email": "nlomenj@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "6a4d8195-3c20-4e7d-9565-ec12cd7760dd",
+      "firstName": "Layney",
+      "lastName": "Middas",
+      "employeeId": "YOO-0025",
+      "email": "lmiddask@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "fe4065c5-cd40-4b0c-bbd2-ef3872aad318",
+      "firstName": "Selig",
+      "lastName": "Zohrer",
+      "employeeId": "YOO-0026",
+      "email": "szohrerl@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "f381d005-0f3b-4855-a306-3b72a1dfd473",
+      "firstName": "Latia",
+      "lastName": "Prier",
+      "employeeId": "YOO-0027",
+      "email": "lprierm@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "firstName": "Sharona",
+      "lastName": "Signorelli",
+      "employeeId": "YOO-0028",
+      "email": "ssignorellin@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "8709603f-d4ed-4e8f-8f0d-d133b92263bc",
+      "firstName": "Tully",
+      "lastName": "Matejka",
+      "employeeId": "YOO-0029",
+      "email": "tmatejkao@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "firstName": "Piggy",
+      "lastName": "Tubb",
+      "employeeId": "YOO-0030",
+      "email": "ptubbp@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "00abd640-e330-417c-94a4-49308a61f713",
+      "firstName": "Malynda",
+      "lastName": "Tulloch",
+      "employeeId": "YOO-0031",
+      "email": "mtullochq@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "firstName": "Graeme",
+      "lastName": "Hourstan",
+      "employeeId": "YOO-0032",
+      "email": "ghourstanr@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "8e5a6dfc-d8e8-4ddc-82ba-9968e0e728ef",
+      "firstName": "Dorene",
+      "lastName": "Bescoby",
+      "employeeId": "YOO-0033",
+      "email": "dbescobys@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "afda46c7-48fd-47af-a97b-188df12bbfd0",
+      "firstName": "Jonie",
+      "lastName": "Ulrik",
+      "employeeId": "YOO-0034",
+      "email": "julrikt@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "7d5d88db-7bde-4243-8a40-2bb15f6473be",
+      "firstName": "Hayley",
+      "lastName": "Blackboro",
+      "employeeId": "YOO-0035",
+      "email": "hblackborou@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "3097e4b8-66df-45c7-98a5-29d70e961c6e",
+      "firstName": "Stan",
+      "lastName": "Lynam",
+      "employeeId": "YOO-0036",
+      "email": "slynamv@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "firstName": "Kippy",
+      "lastName": "Avrahamoff",
+      "employeeId": "YOO-0037",
+      "email": "kavrahamoffw@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "40f3e2a8-8e03-4917-aaba-c9d6f97ee792",
+      "firstName": "Napoleon",
+      "lastName": "Devons",
+      "employeeId": "YOO-0038",
+      "email": "ndevonsx@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "firstName": "Nestor",
+      "lastName": "Passy",
+      "employeeId": "YOO-0039",
+      "email": "npassyy@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "firstName": "Burlie",
+      "lastName": "Powley",
+      "employeeId": "YOO-0040",
+      "email": "bpowleyz@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "71cc00a5-e2d4-4683-bf37-d2c797b6cdcb",
+      "firstName": "Derby",
+      "lastName": "Maiklem",
+      "employeeId": "YOO-0041",
+      "email": "dmaiklem10@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "9b3173f2-5713-401f-9f2b-701e87a66b9c",
+      "firstName": "Adolphe",
+      "lastName": "Henkmann",
+      "employeeId": "YOO-0042",
+      "email": "ahenkmann11@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "07bf010f-d7d1-468a-a408-b58020ece7c4",
+      "firstName": "Theressa",
+      "lastName": "Colmore",
+      "employeeId": "YOO-0043",
+      "email": "tcolmore12@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "firstName": "Branden",
+      "lastName": "Bereford",
+      "employeeId": "YOO-0044",
+      "email": "bbereford13@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "a5262082-0e40-4052-ae8d-3f2980d759a1",
+      "firstName": "Guido",
+      "lastName": "Sweeting",
+      "employeeId": "YOO-0045",
+      "email": "gsweeting14@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "3b9d30cd-e325-49cd-a677-1046943e7f48",
+      "firstName": "Terry",
+      "lastName": "Dodds",
+      "employeeId": "YOO-0046",
+      "email": "tdodds15@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "d7aeb257-397f-4147-85a0-38babbd7429d",
+      "firstName": "Iggy",
+      "lastName": "Solway",
+      "employeeId": "YOO-0047",
+      "email": "isolway16@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "e4718db5-7e2c-4eef-8013-212409f5920a",
+      "firstName": "Renee",
+      "lastName": "Burnside",
+      "employeeId": "YOO-0048",
+      "email": "rburnside17@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "2e6d8304-00bf-47a4-84a7-18c24381b3ab",
+      "firstName": "Sheba",
+      "lastName": "Wrigley",
+      "employeeId": "YOO-0049",
+      "email": "swrigley18@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "e28f6185-3f08-4ae2-be94-ba6c5947e5e6",
+      "firstName": "Felisha",
+      "lastName": "Nathon",
+      "employeeId": "YOO-0050",
+      "email": "fnathon19@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "firstName": "Delila",
+      "lastName": "Sainz",
+      "employeeId": "YOO-0051",
+      "email": "dsainz1a@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "bf6159df-0591-412f-8a14-c0d7c05c7213",
+      "firstName": "Grace",
+      "lastName": "Ruckhard",
+      "employeeId": "YOO-0052",
+      "email": "gruckhard1b@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "d41855b8-7e8b-49f4-a2ee-223937d52968",
+      "firstName": "Wait",
+      "lastName": "Dradey",
+      "employeeId": "YOO-0053",
+      "email": "wdradey1c@yoonet.com",
+      "image": ""
+    },
+    {
+      "id": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "firstName": "Manfred",
+      "lastName": "Beneix",
+      "employeeId": "YOO-0054",
+      "email": "mbeneix1d@yoonet.com",
+      "image": ""
+    }
+  ],
+  "inventory": [
+    {
+      "inventoryName": "Mouse",
+      "image": "4"
+    },
+    {
+      "inventoryName": "Keyboard",
+      "image": "5"
+    },
+    {
+      "inventoryName": "Monitor",
+      "image": "6"
+    },
+    {
+      "inventoryName": "UPS",
+      "image": "7"
+    },
+    {
+      "inventoryName": "Cable",
+      "image": "8"
+    },
+    {
+      "inventoryName": "Chair",
+      "image": "9"
+    },
+    {
+      "inventoryName": "Headphones",
+      "image": "10"
+    },
+    {
+      "inventoryName": "Webcam",
+      "image": "11"
+    }
+  ],
+  "item": [
+    {
+      "id": "3ccb714d-7861-4a38-b67c-b54983da9183",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "0J10DY",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d31470d3-1afd-4aef-a7b7-ad0288d2423a",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "G9E4BY",
+      "employeeId": "a5262082-0e40-4052-ae8d-3f2980d759a1",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "9edb5d17-c66b-4363-9940-63066e6a1c58",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "VN9BMF",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "736587da-30b0-4c5d-a0be-2f2232d2ffb5",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "FWZ6I5",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "54bb2666-d2ba-4a15-af20-42fb400b5ce7",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "0KMHW0",
+      "employeeId": "fe4065c5-cd40-4b0c-bbd2-ef3872aad318",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "f84bad55-1be1-41c4-8eba-526a408e018b",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "YTPPDN",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e3170d1f-dde6-4bbf-a6a3-4d6003c55add",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "UZV9B7",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "a5a95a19-feb8-4a02-b2f9-99817a3f32f6",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "O6QI9Y",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "406016ed-c608-4e40-8028-fdc05ec56f05",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "ZGV0TP",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "99f3c1e5-46b7-4505-9c95-10ee4ed2b367",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "VAJRDT",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "b05d5d0c-7d40-4737-9885-e9150536e99e",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "NVMJW7",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d2cb9011-5e62-4b70-a21e-c043258856f0",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "UB2AU1",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "7bbb6795-e6dd-45d7-b617-386912ada4f8",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "HIXKGM",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "c109a281-0115-423d-8c90-f0722d0a03ba",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "ETO79V",
+      "employeeId": "f75a1058-83ff-4538-a398-08eca2262781",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d424e71b-38d1-4345-97e4-88eedbd8363a",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "VQ73HK",
+      "employeeId": "bbeb1055-4a10-4147-9339-b56330342112",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "0b4dd0ad-426e-497d-be19-1f5e4c898f83",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "DB0002",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "d8ef69d1-461e-45df-bd56-3ad3f43b9dd6",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "9MSMCB",
+      "employeeId": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "76c4df8b-c7af-4355-9908-aac7c4f06470",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "1ORIRY",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "fa840cd3-482a-49cd-8551-0b415eedbc1f",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "KY3F6C",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "fd650687-6903-46b0-91c5-0762bd747056",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "6TAVRK",
+      "employeeId": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "e1e0e190-5e61-4142-b1ba-25539e88187a",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "W2NKZJ",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "e49c21e8-71ab-4980-8edb-fdd60237d092",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "5RC42L",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "cd593cf9-9239-4583-a58d-3cb60a8a8a07",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "7GZIWB",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "2d61ee2a-839f-46d9-9446-6e95a3d7d432",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "SBQNLB",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "f79fd890-3474-4b93-869e-72d522117bb4",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "I86GKG",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "9743ca2d-7941-4b0a-b463-099829ec225c",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "4ZSA3E",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "36217b33-8922-4913-8d7c-39034cb7dfe1",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "Y6HB83",
+      "employeeId": "00000000-0000-0000-0000-000000000001",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "ac5f989c-13a6-4863-b8cd-12cb4a86afc7",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "D6H2LB",
+      "employeeId": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "2affd264-9470-487b-8c22-48ff98b0879d",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "MPANBX",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "be5b52da-1349-4524-836a-3f7506d5832d",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "XQ64Y6",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "16b5eaf1-0276-4c64-a9e9-5f6609d50f08",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "8D2656",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "6c8aa395-d46d-405e-830c-6190c98a9c9a",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "Q1FK9R",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "89243514-12eb-41d6-a8c1-26c14fe8c153",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "D87EG7",
+      "employeeId": "e4718db5-7e2c-4eef-8013-212409f5920a",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "9a8ff943-5111-463f-aa2c-990dd997ac21",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "5AE92I",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "641e2800-0b97-418b-b9f0-7f4d3d07a659",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "Y969RR",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "c870fb66-7e71-48c0-acf1-cfa87e9221b9",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "1V5KC4",
+      "employeeId": "07bf010f-d7d1-468a-a408-b58020ece7c4",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "324c5935-aacf-4298-9b52-f76e92346626",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "MXG71M",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d0fd061e-ae2e-49af-8a9f-e23e24717ad4",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "484MJE",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d575d7b4-f62f-4759-bc0e-b9bbd066aece",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "B4L7YE",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "2f2d2b3b-bc92-4b17-89f9-1a334736f365",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "601HXB",
+      "employeeId": "293052b3-4cec-423f-9e3e-8cfaf5115220",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "3b398cae-9ccc-4f82-b797-01d32f170362",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "YR7G05",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "2624b2fb-c441-43a6-ba79-3813fcc15bbd",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "O657Z5",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "ede3b0f2-b9c6-4299-9466-497b64e08416",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "1KVAF2",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "ff7254ad-bd0b-424d-9d85-d9d5ea2fafd6",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "JXT6Z8",
+      "employeeId": "9c8832d5-9f3c-47c2-9c3b-2c088411f3e7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4e8d5799-6cab-4e9f-b32c-21445785c113",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "FMQ0Y5",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "e732df7d-13bf-4244-9621-64afab935ef4",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "NP3MIX",
+      "employeeId": "fe4065c5-cd40-4b0c-bbd2-ef3872aad318",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5433ab10-58ce-4983-9419-0389ba6c32f8",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "2WDS4B",
+      "employeeId": "00000000-0000-0000-0000-000000000002",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "fe0139a7-ed6b-4b4b-b115-87c85e3ccb3b",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "GA1M96",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ea468797-2a14-4b42-ba6a-eb4884e72a54",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "XGIBAN",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d07935f4-723c-403b-8ab6-0aeba56d0864",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "1W1FF8",
+      "employeeId": "3b9d30cd-e325-49cd-a677-1046943e7f48",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d809d31b-db7a-4313-bc4c-fb1f23cef22d",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "VFF826",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "e511d4ff-ea69-45db-9c4e-71506bc6f1ef",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "1ACCQI",
+      "employeeId": "6f94ad0d-a700-464f-9358-b8b7a79f62cd",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d103811a-32be-4f0c-8bc0-dd2e128fc948",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "24H638",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "9fb74aca-79a1-4bcc-aa7e-ce82aea921fe",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "KZTN3I",
+      "employeeId": "6a4d8195-3c20-4e7d-9565-ec12cd7760dd",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "022f4970-0c3e-449d-a26b-26bc6869daba",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "BT6MCP",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "ae3d1dd8-09c3-4986-9bc2-50089179126f",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "QG053J",
+      "employeeId": "3b9d30cd-e325-49cd-a677-1046943e7f48",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "1cc0bcbf-c088-49d1-b15d-4faf1052848b",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "ORMVJB",
+      "employeeId": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "a79d3fbe-fb22-413d-9431-b3e8b4f959b3",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "1WSQL1",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "e65b1fb8-c199-4151-9128-d21bf70aece9",
+      "inventoryId": 1,
+      "brand": "Acer",
+      "code": "1PIGH2",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "41fb019d-ebb1-49b4-9ba4-ff9fdb10e7bc",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "M9UMFU",
+      "employeeId": "40f3e2a8-8e03-4917-aaba-c9d6f97ee792",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b8c3faaf-5750-4db7-9fc7-bb6f444482be",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "QMGJ06",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "1516f011-cabc-4658-ba2c-b9e3c39a105b",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "XNCYAC",
+      "employeeId": "f75a1058-83ff-4538-a398-08eca2262781",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "6aab3631-6948-451d-89fd-1bb1207e382c",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "3RTDTR",
+      "employeeId": "8e5a6dfc-d8e8-4ddc-82ba-9968e0e728ef",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "6122f122-ff1e-4a0c-a6f2-412664d8e693",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "Q1ZNKU",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "568de28b-a713-41ac-b411-16845d79320e",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "AC4SGT",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "124246ea-f339-4684-b00e-fd9d85ec5acd",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "Y3Y0JX",
+      "employeeId": "96b9cbeb-de69-497a-b9d6-3830965bbf8d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "10d98a6c-65d4-49fd-adae-3781ef437ef9",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "5Y3YMD",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "270b7d7d-7722-4160-8101-24ed6984b367",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "SHAVO4",
+      "employeeId": "93beb1e2-83ee-4c8d-afc9-97e024d0acbb",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "7e7e9dce-4347-457b-811f-219f0e53c4c5",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "02GQHK",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "1b4babd4-c3eb-481c-8f18-9e93ffe1b9cf",
+      "inventoryId": 1,
+      "brand": "Razer",
+      "code": "2S462X",
+      "employeeId": "0b2f2c81-9f5d-475e-aa87-8ff4cda5d45f",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "3b8e2870-7971-461a-a185-0636d93722f1",
+      "inventoryId": 1,
+      "brand": "MSI",
+      "code": "TW4GZY",
+      "employeeId": "d5d3a5f0-aca7-45ff-a0f6-732cbe8914be",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "7e37a28d-bdbf-4a4a-b980-8833a9dca454",
+      "inventoryId": 1,
+      "brand": "A4Tech",
+      "code": "R2UGQ8",
+      "employeeId": "93beb1e2-83ee-4c8d-afc9-97e024d0acbb",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "0766e189-eb60-4061-beff-21a946dba375",
+      "inventoryId": 1,
+      "brand": "Microsoft",
+      "code": "VTN5U0",
+      "employeeId": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "e00f28a2-26c0-49aa-868e-1987e5dbf631",
+      "inventoryId": 1,
+      "brand": "Logitech",
+      "code": "9R5SJ9",
+      "employeeId": "fe4065c5-cd40-4b0c-bbd2-ef3872aad318",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f62adf8e-8307-474d-b562-24eaee7fb537",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "KLMA5G",
+      "employeeId": "d41855b8-7e8b-49f4-a2ee-223937d52968",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "fe00e6b2-9b91-491a-a00d-510c1eadcebd",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "WIS15T",
+      "employeeId": "00000000-0000-0000-0000-00000000004",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5bde03be-51dc-4eb5-aed6-fc8659edc0b9",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "DPREEP",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "7c64f64a-abb1-4a76-ba86-fb5239b68f48",
+      "inventoryId": 2,
+      "brand": "Razer",
+      "code": "0JT2HQ",
+      "employeeId": "3b9d30cd-e325-49cd-a677-1046943e7f48",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "c04c3293-aa26-48d1-ab59-29aa47d28cc9",
+      "inventoryId": 2,
+      "brand": "Microsoft",
+      "code": "ZFKKHY",
+      "employeeId": "fe4065c5-cd40-4b0c-bbd2-ef3872aad318",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d90ab9d2-632c-46e3-993f-9ddd9b305c30",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "AB84KZ",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "e7fe8e0e-82b2-4571-981d-fcad9236abd0",
+      "inventoryId": 2,
+      "brand": "Microsoft",
+      "code": "JI3IMO",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "e7872c4e-8b41-41eb-8aa5-7db7e8f17e5a",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "ZACTFT",
+      "employeeId": "f75a1058-83ff-4538-a398-08eca2262781",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "4dff75f1-21b5-47b1-990c-bc042de76ac4",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "HZMRWU",
+      "employeeId": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "39f64c5b-ecbd-404c-bcd3-c3b1f7668d76",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "V9URNV",
+      "employeeId": "07bf010f-d7d1-468a-a408-b58020ece7c4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "0964fb56-72dd-44ea-80ae-e25d55acc5db",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "D1MVRM",
+      "employeeId": "07bf010f-d7d1-468a-a408-b58020ece7c4",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "9fc2025f-a891-456e-bd03-76727078c101",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "J5O39K",
+      "employeeId": "8709603f-d4ed-4e8f-8f0d-d133b92263bc",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "63e73f53-6128-4154-adf6-5a43abeaa6c2",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "JZ5VF0",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "cdbaa5db-b2f1-473c-ab67-4d4cd3dbd379",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "PDLFCW",
+      "employeeId": "8e5a6dfc-d8e8-4ddc-82ba-9968e0e728ef",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5a1e4412-9c34-4e20-ad0f-1ca839133673",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "3ZFM1V",
+      "employeeId": "8709603f-d4ed-4e8f-8f0d-d133b92263bc",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d5c94f89-5089-404a-bbe3-6959c993bffe",
+      "inventoryId": 2,
+      "brand": "Razer",
+      "code": "JLGGCC",
+      "employeeId": "3097e4b8-66df-45c7-98a5-29d70e961c6e",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "66a725bd-e6a5-49ca-adb9-7673717542f9",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "87FYV2",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "9f525404-8be4-4a40-8dcd-71bb01b15928",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "GQSRQP",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "f285938c-e7a3-435d-b662-0ea43b538d04",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "T4PUJT",
+      "employeeId": "3b9d30cd-e325-49cd-a677-1046943e7f48",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "fcd19904-ced8-4b33-a584-110ab977d274",
+      "inventoryId": 2,
+      "brand": "Razer",
+      "code": "ATPPLC",
+      "employeeId": "293052b3-4cec-423f-9e3e-8cfaf5115220",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "3ebc9d5d-758b-4262-9a07-6a283d263ddd",
+      "inventoryId": 2,
+      "brand": "Microsoft",
+      "code": "SDFEXY",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "b093cd6c-0fe3-4988-b350-5cffd72aca6e",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "LTCOQ3",
+      "employeeId": "bbeb1055-4a10-4147-9339-b56330342112",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "55320550-f46b-4726-8977-0ec1cecdba75",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "AJU5TM",
+      "employeeId": "4165a21f-477a-4dfb-a39d-7db2b2ccc144",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "681c2c2e-a5cb-4136-bb1e-5725e454d0c4",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "1XLLSN",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "1bbd9cd1-3431-4d32-9db6-0cb292a2ecc9",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "K2WYIB",
+      "employeeId": "40f3e2a8-8e03-4917-aaba-c9d6f97ee792",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "f7215973-3980-43a7-b8c9-5c3bcd725cc9",
+      "inventoryId": 2,
+      "brand": "Razer",
+      "code": "PNTDYW",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "adbf1a30-12ec-441e-a19a-873166c920e4",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "R1QF7I",
+      "employeeId": "6f94ad0d-a700-464f-9358-b8b7a79f62cd",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "2ec6f553-c571-42d4-94f4-4618e38b5246",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "LFO2NM",
+      "employeeId": "fe4065c5-cd40-4b0c-bbd2-ef3872aad318",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "f69b22d5-c113-4347-bc68-3aed855651a0",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "DV1ECC",
+      "employeeId": "71cc00a5-e2d4-4683-bf37-d2c797b6cdcb",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f0a7662f-5fab-46d7-91a7-6e01b19a5272",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "ST48I3",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "35cf75ce-0541-4ccb-acd7-0d9397722652",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "0B10K1",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "35fda7bb-a39d-4c32-a2ff-5829efca823e",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "LK647Y",
+      "employeeId": "bbeb1055-4a10-4147-9339-b56330342112",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "72bfc526-aff2-4326-8224-342229df336f",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "NHP39C",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "6aad6dc7-b622-4fe7-819f-61495b8e0bd1",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "7S9XW4",
+      "employeeId": "8709603f-d4ed-4e8f-8f0d-d133b92263bc",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "513da317-a2db-4224-9133-9e7e43afdd20",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "KO16J1",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "0b4333b4-ae6c-4c5f-89f9-9cf6a8c1a7cb",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "LOA2LZ",
+      "employeeId": "8709603f-d4ed-4e8f-8f0d-d133b92263bc",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "aa35630d-5773-460d-a559-6fcc63dfc785",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "6559DG",
+      "employeeId": "293052b3-4cec-423f-9e3e-8cfaf5115220",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "5172749f-f950-4584-80c9-530ac3a0a524",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "FU1LK5",
+      "employeeId": "71cc00a5-e2d4-4683-bf37-d2c797b6cdcb",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8c70ac21-d013-4fe0-9f7f-a6f84a49ebb3",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "WOF77P",
+      "employeeId": "0d56f30f-11df-4aed-8e39-c884581c0815",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "76bf756d-99b8-4e05-9209-2d45f421d357",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "ZTVAFH",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4fb039ed-0e6f-4beb-965d-128cffc1a4c3",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "4Z72FS",
+      "employeeId": "00000000-0000-0000-0000-00000000004",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "c4a90fa8-54b9-404f-b84b-fa23fa1d41f8",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "HG2TEM",
+      "employeeId": "00000000-0000-0000-0000-000000000002",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "aa77a174-6d1d-4d1c-942b-081a0955000f",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "FM9XG1",
+      "employeeId": "a5262082-0e40-4052-ae8d-3f2980d759a1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e6c56d83-8efe-4f46-9874-f816bc9c51c4",
+      "inventoryId": 2,
+      "brand": "Razer",
+      "code": "SD1NRJ",
+      "employeeId": "e4718db5-7e2c-4eef-8013-212409f5920a",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "fa3794df-538a-45ca-bd16-e846b7ab58cf",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "F60VNM",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d9e63ee0-a1c8-4ff7-947a-0b8da735c3f7",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "GZHMVO",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "b190c097-991e-454e-a1a2-37ccd925459a",
+      "inventoryId": 2,
+      "brand": "Microsoft",
+      "code": "B8VY4F",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "944d8eba-feb9-4083-8ebe-336fe27c1921",
+      "inventoryId": 2,
+      "brand": "Microsoft",
+      "code": "HXWETU",
+      "employeeId": "00abd640-e330-417c-94a4-49308a61f713",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5556d9e8-9f8f-44e1-9239-4139bdf89008",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "TXXZHT",
+      "employeeId": "2e6d8304-00bf-47a4-84a7-18c24381b3ab",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "c30d2f70-05a3-4fdd-9c88-376a6c8a4316",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "DC3NMS",
+      "employeeId": "d7aeb257-397f-4147-85a0-38babbd7429d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "e7c3fc8c-3eca-4519-97f3-3020a8d47722",
+      "inventoryId": 2,
+      "brand": "Razer",
+      "code": "ZLDPUF",
+      "employeeId": "d41855b8-7e8b-49f4-a2ee-223937d52968",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "1ad7a350-b4c2-4cd8-968e-11b77a3ea951",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "Y0NVXT",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "75c6c34f-9ff1-4966-b1aa-81d11af8abac",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "VKM599",
+      "employeeId": "6a4d8195-3c20-4e7d-9565-ec12cd7760dd",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4f6d3fc2-d82e-473b-922d-f9fe3570d16b",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "EH3SQ9",
+      "employeeId": "e240bc24-1ccf-48d8-a276-22565adea6d7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f5e0168e-831f-4371-9d09-cea4fdd0167d",
+      "inventoryId": 2,
+      "brand": "Logitech",
+      "code": "ZPI0GV",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8f799d6a-f1d7-4202-b97e-a35630d9a15f",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "35WRBO",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "3649a480-7e53-44ee-9b46-43e32d50eea8",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "D02KG3",
+      "employeeId": "a5262082-0e40-4052-ae8d-3f2980d759a1",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "37aedb91-090f-4fb4-9e4d-b84311e72767",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "FQNLA8",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "a4b5f81f-40a8-4d91-a51e-a1d8fb8566f7",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "TA6KQD",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "73b75e1c-85fb-4b65-91c2-6d808f2293de",
+      "inventoryId": 2,
+      "brand": "Microsoft",
+      "code": "X9AOC4",
+      "employeeId": "71cc00a5-e2d4-4683-bf37-d2c797b6cdcb",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4129bc60-f119-4a5f-bf7e-3c539a906cc5",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "ERAE5C",
+      "employeeId": "d7aeb257-397f-4147-85a0-38babbd7429d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "cf656c6b-690c-4426-b8e2-0b7e9afb9bf0",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "UOOQB1",
+      "employeeId": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "966487be-07a8-46bd-ad78-469995bb318c",
+      "inventoryId": 2,
+      "brand": "Acer",
+      "code": "P3SAH3",
+      "employeeId": "bbeb1055-4a10-4147-9339-b56330342112",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "c87bc3bf-2c9b-4582-9671-f6f1cf928cda",
+      "inventoryId": 2,
+      "brand": "Razer",
+      "code": "Q1E3MC",
+      "employeeId": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "1237f212-6c83-423d-93a9-464b2919781d",
+      "inventoryId": 2,
+      "brand": "A4Tech",
+      "code": "RVYCRH",
+      "employeeId": "f381d005-0f3b-4855-a306-3b72a1dfd473",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "6e9528e8-149a-46c0-af98-3500c13eb8b3",
+      "inventoryId": 2,
+      "brand": "Microsoft",
+      "code": "47O8V5",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "1c6d8830-9eb6-4d24-a4f1-b5eb876bbaec",
+      "inventoryId": 2,
+      "brand": "MSI",
+      "code": "WATDNT",
+      "employeeId": "fe4065c5-cd40-4b0c-bbd2-ef3872aad318",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "4dab8831-cf8c-47c9-8595-c0066d5b4e51",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "GKB6F4",
+      "employeeId": "0d56f30f-11df-4aed-8e39-c884581c0815",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "8ba5b5a8-b303-4b50-a2e7-705b51d0cb5d",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "ED261G",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "85c8fcfa-120a-4576-a492-b24f20ee6539",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "ZGO5UX",
+      "employeeId": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "cc59e7e9-84a8-4975-acbb-29ce2559e8be",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "SO25CQ",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "3acaa12c-2dcb-4dca-9d34-ba5b20c3e134",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "B0MWSD",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "22450ce8-c9d1-4bf2-a35a-92d7613af84e",
+      "inventoryId": 3,
+      "brand": "Acer",
+      "code": "IY7277",
+      "employeeId": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "913f0b14-36a4-49c2-96bd-4d333684e841",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "8BHUK0",
+      "employeeId": "293052b3-4cec-423f-9e3e-8cfaf5115220",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8d0db3ce-2d22-48a0-80ae-8969e239bdab",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "TLL5BB",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d7529566-ae0f-42c5-aabd-e80c98694dd1",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "7JA9JR",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "a698b19a-93e0-41cd-b2dc-2d23496a1db0",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "G5CO6F",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "61364544-01c6-4b5e-855d-7bda0f18740c",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "XT9C92",
+      "employeeId": "bbeb1055-4a10-4147-9339-b56330342112",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "19957fd7-0f6b-4512-8208-f06a344ecd64",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "NFCNWK",
+      "employeeId": "6f94ad0d-a700-464f-9358-b8b7a79f62cd",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e0b052b5-285d-4044-8233-b141014a8af2",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "HNGUEY",
+      "employeeId": "40f3e2a8-8e03-4917-aaba-c9d6f97ee792",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "55b3734e-6acc-4f0c-b9f8-af2231857e5b",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "U8D4I9",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b2782f30-db37-47ef-9003-3f1a9cb9b591",
+      "inventoryId": 3,
+      "brand": "Acer",
+      "code": "U73YJW",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "63d5f7a2-54cf-4b1a-aa95-f21d47f206d6",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "3AT9L4",
+      "employeeId": "9c8832d5-9f3c-47c2-9c3b-2c088411f3e7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "26ab9bf6-f9f2-4030-b0aa-fc64d46ba0b2",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "N29NNE",
+      "employeeId": "9c8832d5-9f3c-47c2-9c3b-2c088411f3e7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "24e2e4e6-13fc-4f6f-8b05-476301a50fc5",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "9JN7DM",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "20766159-b409-4bd1-813b-ae99fef3bbbe",
+      "inventoryId": 3,
+      "brand": "Acer",
+      "code": "9NZWOW",
+      "employeeId": "d7aeb257-397f-4147-85a0-38babbd7429d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4747cf86-edd6-4519-9571-17d6ad630290",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "3EM2NO",
+      "employeeId": "e240bc24-1ccf-48d8-a276-22565adea6d7",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "c27b2566-3b2f-4248-bb6e-1c69b674d4d0",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "YH3HFF",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "40a196d4-2144-4805-a171-53943eb97a55",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "FPY3MF",
+      "employeeId": "e240bc24-1ccf-48d8-a276-22565adea6d7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ef55974e-674a-4425-9e68-4f439f2ab5f5",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "17QCQS",
+      "employeeId": "96b9cbeb-de69-497a-b9d6-3830965bbf8d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "c9a8b7a8-58be-45a7-9f77-8c69535fe457",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "Y50VTB",
+      "employeeId": "4165a21f-477a-4dfb-a39d-7db2b2ccc144",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "7f5aadfe-14a5-4cd4-b75a-78b1b10daf0d",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "M9ERAM",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "0fa510a5-d2c3-4ce1-896c-028591dcf767",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "5ILUHE",
+      "employeeId": "afda46c7-48fd-47af-a97b-188df12bbfd0",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "fa646257-936c-4ff8-b683-086621dadffe",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "5JPN21",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "94c877c4-8854-4ad2-8e11-3fd42c7b4855",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "ZFKEXY",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "b7375528-f697-4a3a-95aa-42c65036d869",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "F1XPSP",
+      "employeeId": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "94700cbd-6c21-485d-9c80-4070b16594a6",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "TSP1X0",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "dfd7e147-78b2-4bba-b158-3ffd80464958",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "3UMF09",
+      "employeeId": "d5d3a5f0-aca7-45ff-a0f6-732cbe8914be",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "abf85540-7b72-4f0e-a99c-1c708117f71c",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "IBM08T",
+      "employeeId": "40f3e2a8-8e03-4917-aaba-c9d6f97ee792",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ae97aa9a-93ec-42e6-b833-9fbc4c27b626",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "PQZQC3",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "4334be98-ee2f-40ca-b8ba-a879c71fa46d",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "2RTP0V",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "ba9a83b3-c1ac-4c5f-b97a-2ad7c7b5c5db",
+      "inventoryId": 3,
+      "brand": "Acer",
+      "code": "6L3FH0",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "ff373552-fb7e-4e84-a58c-197e519da8d9",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "DT0E8Q",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "f575a656-0a6d-4a75-9df6-e9622897633e",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "AN2TNW",
+      "employeeId": "f75a1058-83ff-4538-a398-08eca2262781",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "80ec60f9-5bb6-48f5-a95f-1355706730d5",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "F3379N",
+      "employeeId": "9c8832d5-9f3c-47c2-9c3b-2c088411f3e7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "9fcc9aa7-5c7a-4e60-8311-eedd3cddbd74",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "GAVWZK",
+      "employeeId": "9b3173f2-5713-401f-9f2b-701e87a66b9c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e29051ba-bbfe-42f3-a9c9-597092eb654c",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "L7P0SH",
+      "employeeId": "9c8832d5-9f3c-47c2-9c3b-2c088411f3e7",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "f5e9eafc-9798-4977-9cb5-9bbbd94cc09b",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "H8SL6T",
+      "employeeId": "00000000-0000-0000-0000-000000000002",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ec1fe64d-788f-48a3-be53-f32a753bf117",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "C0OX00",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "afafd473-6f53-4171-9d04-f48908773700",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "01B8A8",
+      "employeeId": "6a4d8195-3c20-4e7d-9565-ec12cd7760dd",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "13512600-ed7a-4ffe-8b74-cdb701431e0d",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "I9Z0ND",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "7cef010b-6d48-41d0-97df-cc4434115594",
+      "inventoryId": 3,
+      "brand": "Acer",
+      "code": "K0SLQW",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e6514c9b-12f0-4614-b5a9-3bfbfcc53b0b",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "K7SQ5P",
+      "employeeId": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "8b57719a-fc35-438c-b7ab-c98228515a91",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "FC2HB4",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "6b4aea9d-7881-46df-97d4-097d43e80ac6",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "PAPMJV",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ef3260cc-4f11-4c27-8fed-0baa7357e26a",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "FCES5H",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "1b573844-7b8e-4f7a-85ea-9898f6f46852",
+      "inventoryId": 3,
+      "brand": "Acer",
+      "code": "6EWCGN",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4b209add-1ef4-4d83-a9c8-ebe4451784f6",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "UZXZMH",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "93907c1e-6a5c-4f3c-9760-cc281a42de6a",
+      "inventoryId": 3,
+      "brand": "Acer",
+      "code": "RVCAJA",
+      "employeeId": "d41855b8-7e8b-49f4-a2ee-223937d52968",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "3605173a-5511-4311-a618-a753939d99e2",
+      "inventoryId": 3,
+      "brand": "LG",
+      "code": "WDVZXN",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "348325eb-6a44-454a-8810-fd64f4ec5802",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "DIGJ9A",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "9596fbad-9ed1-4d14-9758-19e2f4588d73",
+      "inventoryId": 3,
+      "brand": "Acer",
+      "code": "JCBJMI",
+      "employeeId": "9c8832d5-9f3c-47c2-9c3b-2c088411f3e7",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "09a9cd2b-62ac-4324-9a74-72c028848068",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "R3E8VJ",
+      "employeeId": "8709603f-d4ed-4e8f-8f0d-d133b92263bc",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8553dca8-4171-4197-87fc-bec3614ec0ce",
+      "inventoryId": 3,
+      "brand": "Dell",
+      "code": "9V4SRN",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "eca728ae-79f3-4c22-a66d-5d627e29b0ca",
+      "inventoryId": 3,
+      "brand": "Samsung",
+      "code": "ZEZME6",
+      "employeeId": "00000000-0000-0000-0000-00000000004",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "56c096e9-2e19-4466-94ac-5ac4cf9ce383",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "U8UH7J",
+      "employeeId": "293052b3-4cec-423f-9e3e-8cfaf5115220",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "b9cb16c4-be5b-4b59-a5b7-39e1b714ef8f",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "F68EA7",
+      "employeeId": "d7aeb257-397f-4147-85a0-38babbd7429d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d3d28e4d-3ac6-4eca-a10e-54242329904a",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "6KVJCA",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "6b6b833a-5067-4619-b614-108110c83d1a",
+      "inventoryId": 3,
+      "brand": "AOC",
+      "code": "W6VIB7",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "01ac843a-d24d-4f63-8a04-b0d2fa298789",
+      "inventoryId": 3,
+      "brand": "Asus",
+      "code": "GVBI7E",
+      "employeeId": "2e6d8304-00bf-47a4-84a7-18c24381b3ab",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "c12459fd-2b4a-4263-a4e8-66c23e661e67",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "FSQGP2",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "6575fa4a-042c-425b-a64b-ee337ec5c170",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "ZWBIDF",
+      "employeeId": "07bf010f-d7d1-468a-a408-b58020ece7c4",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "36bb49ae-745b-4d37-a4a8-8fdafd178743",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "K6EOAN",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "0e045d6e-46ef-47e3-8231-501aee3e3400",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "9JCLVA",
+      "employeeId": "00000000-0000-0000-0000-000000000003",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "1b1fe45c-b9d8-4f58-a0c1-c4b2d3665aa6",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "BPGKPJ",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "20b42e99-3eb3-4978-b1a7-6e1010f344d4",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "ICQXEP",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "e3fafd3b-b2a6-4039-be0d-043795b7eaaa",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "Y5AJEU",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "180e5d6d-233a-48d4-8266-933146804c7b",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "JW0CV3",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e771d71e-597b-40c3-8095-bb79b9787517",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "V6CY08",
+      "employeeId": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "5811b7aa-195d-4dde-99ce-0a74d907a7c7",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "UY2Y4O",
+      "employeeId": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "0a5a3c52-a45b-40ce-a96a-0f2294ff52e7",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "OBW8VD",
+      "employeeId": "3097e4b8-66df-45c7-98a5-29d70e961c6e",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "684cafe6-5652-4205-86c1-4c7b4fae0410",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "KF8VLE",
+      "employeeId": "e240bc24-1ccf-48d8-a276-22565adea6d7",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "652c7cf4-8577-4a93-9be3-62e5b43d378d",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "397RXK",
+      "employeeId": "00abd640-e330-417c-94a4-49308a61f713",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "501e139e-0b1d-42e0-9cb4-d8d300960e55",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "JTGM7R",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "535e87c4-4c8a-404e-8dbf-dccbe09cee3c",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "EWLSWE",
+      "employeeId": "e4718db5-7e2c-4eef-8013-212409f5920a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "5f0dccf5-53ef-45d7-bccb-8f6fb0b6cf83",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "OPSNVS",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "45c4415e-807f-4b04-bd8e-61a3285eae81",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "0CIAV7",
+      "employeeId": "6f94ad0d-a700-464f-9358-b8b7a79f62cd",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "16da3d5a-9075-4fec-a3f6-70ed2dfa5d76",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "ASWGRV",
+      "employeeId": "00000000-0000-0000-0000-000000000003",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f3fd3f22-c359-435a-a888-ba7469da58f7",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "T84TZR",
+      "employeeId": "93beb1e2-83ee-4c8d-afc9-97e024d0acbb",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b3bfae97-79e8-4a5c-8bc4-4c307fbb55c9",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "CSUOYT",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "c6760f6a-5903-4b83-9608-d5ca8641776c",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "MULQUU",
+      "employeeId": "",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "9814eca7-929b-405a-b38d-13c29a57750f",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "RV9RSA",
+      "employeeId": "00000000-0000-0000-0000-000000000003",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5de2eb34-8798-4ada-a537-f289624aa579",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "UVOHHF",
+      "employeeId": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "81a713e0-2552-4938-affc-d3434f76d41a",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "X7MNVD",
+      "employeeId": "bbeb1055-4a10-4147-9339-b56330342112",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "675e7c92-2e72-465d-a84b-e5a8ce49d670",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "TQTIBY",
+      "employeeId": "0d56f30f-11df-4aed-8e39-c884581c0815",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d9fe1ad0-4ede-4ea9-8d29-37d29b6e6d5f",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "HEG24P",
+      "employeeId": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "de09d0ea-371f-42ee-aef4-6b6a4fe9e9f0",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "W0O72K",
+      "employeeId": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "73f08a02-8d25-4e7e-b34c-164a3d86e7ee",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "BVF17B",
+      "employeeId": "6a4d8195-3c20-4e7d-9565-ec12cd7760dd",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f2dc7716-0ea7-42f3-a196-e0fcfe7e9b47",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "1709GK",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "3130c8f5-b47f-4631-9dcf-14543fb1bd74",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "FQUPPW",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "12eec116-d58b-4b12-af60-61c6a0c969f9",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "7V0W9V",
+      "employeeId": "8e5a6dfc-d8e8-4ddc-82ba-9968e0e728ef",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f580dd13-4f28-4bf4-9ab6-a91e9895c0a9",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "OVP1XO",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "669ac386-ff65-4d8e-8ee7-4ecd02de734e",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "CAVM16",
+      "employeeId": "d41855b8-7e8b-49f4-a2ee-223937d52968",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "20f8f738-65f8-45de-9575-2995c81c9470",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "4IZ3UD",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "a10fa785-1f4f-4822-843f-5dc1f4a41e2e",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "L1URJB",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4a8596f7-20a4-4135-b7a7-97d85c5983ce",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "AC4Q2R",
+      "employeeId": "0b2f2c81-9f5d-475e-aa87-8ff4cda5d45f",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "fb6cc38a-3a7c-4d95-9e68-8b4bf3817339",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "FQ1QJX",
+      "employeeId": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "c3c583b7-6b71-45cc-8895-6a816993cfda",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "PLYEP8",
+      "employeeId": "8e5a6dfc-d8e8-4ddc-82ba-9968e0e728ef",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "17ba4a33-d617-4d48-808b-88525a7281bc",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "22YK65",
+      "employeeId": "4165a21f-477a-4dfb-a39d-7db2b2ccc144",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "2b7392f3-4c01-4d56-b8aa-f60abc6764b7",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "CEMCXU",
+      "employeeId": "6f94ad0d-a700-464f-9358-b8b7a79f62cd",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "02642ecc-6d39-4ca5-bf56-9d090858e1e2",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "JQMI2X",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ace29912-9442-44f4-8e90-d90304ab0257",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "PP1BAI",
+      "employeeId": "e28f6185-3f08-4ae2-be94-ba6c5947e5e6",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "de20f43e-cce1-4708-b78f-dec41763e454",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "FSPOM1",
+      "employeeId": "00abd640-e330-417c-94a4-49308a61f713",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "9f638b2e-888b-427a-b2a5-1e686e7c122f",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "SSM9RJ",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "5cedb060-1627-4736-a6c8-c3c262560894",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "J49AGF",
+      "employeeId": "4165a21f-477a-4dfb-a39d-7db2b2ccc144",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "82509e33-5b3d-4e55-992a-f828231b4895",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "CTVS4T",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "88bc8b67-6a6c-4eea-ba51-9bbb8c3ce24f",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "3TTP4M",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "b0731154-23ea-4e28-8d69-97ae6c7be918",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "IAPLMV",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5ce2c0c3-8049-4799-b601-57fc1b1fed36",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "WWOBZF",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "8de60267-6c96-4ccb-91bb-0f60a54854f3",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "F548YF",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "a6ae9547-29b6-4885-9f04-b61e9a695e9f",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "N1O1TO",
+      "employeeId": "00000000-0000-0000-0000-000000000001",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "7b77573a-1878-415a-8b10-372f1fb04248",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "SVULC5",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "508e1b4f-9d03-4a67-a4f4-82c2204f5a83",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "KIDY03",
+      "employeeId": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "06744413-9624-42d9-b36b-00d31aca918c",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "B5DPD8",
+      "employeeId": "9b3173f2-5713-401f-9f2b-701e87a66b9c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "98cc8d46-6dc9-49bf-8ef7-05c0c2ebf768",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "X21PA3",
+      "employeeId": "0d56f30f-11df-4aed-8e39-c884581c0815",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "498a3dbd-24f5-4563-a509-3b404d4a1178",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "WH4DXK",
+      "employeeId": "7d5d88db-7bde-4243-8a40-2bb15f6473be",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "a2fb5184-4801-41c7-8102-8f26f76c9ee0",
+      "inventoryId": 4,
+      "brand": "Delta",
+      "code": "VPAA88",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "c47fe85d-53d5-4313-98fa-061737cc6ee8",
+      "inventoryId": 4,
+      "brand": "Huawei",
+      "code": "TPHXUZ",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "831e8f61-3fcd-43db-8ba0-7be0ae021b57",
+      "inventoryId": 4,
+      "brand": "Eaton",
+      "code": "XJZ346",
+      "employeeId": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "5a218c98-57e4-414b-ad5d-5169f5d69836",
+      "inventoryId": 4,
+      "brand": "Toshiba",
+      "code": "PV4ZYA",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "172b6e52-fa43-4658-a121-069d1350033f",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "FW6IBV",
+      "employeeId": "00000000-0000-0000-0000-000000000002",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "96c08de9-95f6-4753-a246-2ba9e9f774a9",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "U9OK7G",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b77da296-da9b-458b-a55c-9cc3bc8f191a",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "7JGB71",
+      "employeeId": "40f3e2a8-8e03-4917-aaba-c9d6f97ee792",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b6cd6de4-0edf-4838-8bbd-60a4fe0fca63",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "DXT7LC",
+      "employeeId": "8709603f-d4ed-4e8f-8f0d-d133b92263bc",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "1d6a3609-1332-40c2-a442-091c351cdee6",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "NFCB6C",
+      "employeeId": "93beb1e2-83ee-4c8d-afc9-97e024d0acbb",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "c6d19a65-9d1b-42a0-90bc-7f3f1d02915d",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "RKUK71",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e678e503-2278-4591-9f15-d1a3791624c2",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "OREWEV",
+      "employeeId": "0b2f2c81-9f5d-475e-aa87-8ff4cda5d45f",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f57637b5-181e-47ab-a6be-ee3fa45adc3e",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "OSCOL0",
+      "employeeId": "",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "310f64d9-43c3-4160-81a6-06f819ba6966",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "AD5MHE",
+      "employeeId": "96b9cbeb-de69-497a-b9d6-3830965bbf8d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "46ece70f-05c0-4439-9cb3-71622b723537",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "BY8GVA",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "6f926c5b-c70d-485b-826b-d0e480747069",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "1MF5HG",
+      "employeeId": "e4718db5-7e2c-4eef-8013-212409f5920a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "0ca00e50-4078-4650-a041-a10b7d96f402",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "N8FS15",
+      "employeeId": "2e6d8304-00bf-47a4-84a7-18c24381b3ab",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "63e3370d-60e3-4f69-916d-27213d96ee6c",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "L76ETY",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e9376495-b821-4074-a622-9d5b759acb11",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "UBFP24",
+      "employeeId": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8fe25eba-0bed-4fe5-92ae-0f68d36f10d2",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "QV9LT2",
+      "employeeId": "e4718db5-7e2c-4eef-8013-212409f5920a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "77fe1d1b-53c4-45f3-a40a-b02ad388b3c7",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "79UYLR",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "dd64e256-b7d6-4a70-afb0-a40546d66e15",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "F1JGWK",
+      "employeeId": "3097e4b8-66df-45c7-98a5-29d70e961c6e",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "866195d8-91ca-40fc-9de1-d64dbf03e112",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "P13L8F",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "b70e256b-f127-4809-9bb1-1616007bf2d0",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "AE8ZMG",
+      "employeeId": "7d5d88db-7bde-4243-8a40-2bb15f6473be",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "af86bdc9-b2ae-4c68-9aba-563ef9a8da0d",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "NZIBGE",
+      "employeeId": "afda46c7-48fd-47af-a97b-188df12bbfd0",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "53a6e0d6-4071-42ca-b900-1b46de65435d",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "UGOZMI",
+      "employeeId": "d5d3a5f0-aca7-45ff-a0f6-732cbe8914be",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "48275831-58d9-47f8-83aa-4595678d056a",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "M1ZAUV",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "93bfb2e3-125f-4971-974d-24244d838748",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "H7ETRY",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5c648c34-16cd-4ea2-8ff5-c06569beade2",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "YL2250",
+      "employeeId": "0b2f2c81-9f5d-475e-aa87-8ff4cda5d45f",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "cda3d318-4b81-4675-8613-61fa00d7f1d1",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "AYKEW8",
+      "employeeId": "93beb1e2-83ee-4c8d-afc9-97e024d0acbb",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "a022a2e9-6e9e-4cc9-9556-1f73421fc6da",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "LLBP31",
+      "employeeId": "00abd640-e330-417c-94a4-49308a61f713",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "3b72e535-814f-4139-af06-a69685fffa37",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "RTYSF4",
+      "employeeId": "71cc00a5-e2d4-4683-bf37-d2c797b6cdcb",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "8783359f-c738-4777-bf50-1e970600f1ee",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "BHQFSX",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d33ed03a-593e-42d0-8399-2e898694e7de",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "RHS9ZW",
+      "employeeId": "9b3173f2-5713-401f-9f2b-701e87a66b9c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "9fb4ed1b-d897-4b38-8993-7775d325004b",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "AXS6W9",
+      "employeeId": "3097e4b8-66df-45c7-98a5-29d70e961c6e",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e6283eff-46d6-4054-b3b6-fad1b3d0fe84",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "YDBCN2",
+      "employeeId": "71cc00a5-e2d4-4683-bf37-d2c797b6cdcb",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "6f53b195-481a-4398-8d1c-629d15eb02f6",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "M8G0XI",
+      "employeeId": "e4718db5-7e2c-4eef-8013-212409f5920a",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "077c114f-6ff9-41d6-a925-d6d38d331d07",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "W9ZMQY",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "c1f76d08-a14d-4fcc-b7b1-bb187402a94a",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "ICAA73",
+      "employeeId": "e28f6185-3f08-4ae2-be94-ba6c5947e5e6",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "9c86aaa2-507a-472d-b2e6-016271305bb9",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "CEW7MJ",
+      "employeeId": "bf6159df-0591-412f-8a14-c0d7c05c7213",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "6216acbd-231f-409b-96ee-efedc5952b38",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "84WOQQ",
+      "employeeId": "71cc00a5-e2d4-4683-bf37-d2c797b6cdcb",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "9a1618b5-f03d-48a1-9bb0-563a56ba6aef",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "LFC6WP",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "b31f5c09-d748-452a-98c9-1fd811a0746a",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "TG5D4B",
+      "employeeId": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "a1ddd5af-02c0-4d9a-991b-b884bdb2d5be",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "YE6JAE",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d7cdf267-8d97-46d1-9b98-88f4de715b41",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "PS7NWS",
+      "employeeId": "0b2f2c81-9f5d-475e-aa87-8ff4cda5d45f",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d16e53f0-af9f-452c-ac7f-b1d17c6e9979",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "WI8RVS",
+      "employeeId": "0b2f2c81-9f5d-475e-aa87-8ff4cda5d45f",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "00b66722-a75f-45e2-aaf3-5577f7b9d506",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "H67JLM",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "46c3e51d-149a-4fed-9723-602a6a707173",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "1OQKWP",
+      "employeeId": "e240bc24-1ccf-48d8-a276-22565adea6d7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "8400d9be-f91d-46d2-bd5b-e6c4429223d0",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "RDBUPI",
+      "employeeId": "d41855b8-7e8b-49f4-a2ee-223937d52968",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "23984b26-6ecc-418f-87a8-4eab1b0f6712",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "53X6IM",
+      "employeeId": "7d5d88db-7bde-4243-8a40-2bb15f6473be",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "095d32bb-b0a5-423f-9242-622311cac73e",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "GBXQLY",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "147722f7-8968-4b20-93a0-84ac3688567e",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "BIPL8K",
+      "employeeId": "3b9d30cd-e325-49cd-a677-1046943e7f48",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e04516ad-e368-4c57-9617-ed65e2c60862",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "VJBXRZ",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "6b157f4c-540e-413e-b6b2-94ca70fd53f4",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "3W31RU",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "fe16d528-01bc-494a-bb47-b74955e5d225",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "TU5307",
+      "employeeId": "96b9cbeb-de69-497a-b9d6-3830965bbf8d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "5317d767-d3e6-4d57-bc18-65cebd24fd41",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "5WE4IX",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "34ed489a-2012-4d15-aeb5-8ef86cd4817b",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "B66FT5",
+      "employeeId": "bbeb1055-4a10-4147-9339-b56330342112",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e33c3723-a225-49b8-bd22-c6e61ab8aa2e",
+      "inventoryId": 6,
+      "brand": "Herman Miller",
+      "code": "FO0P9N",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "b4020cae-5fca-4859-b9d7-bc8e0d4a7d75",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "HHTHED",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "200d8d55-1e81-45d9-abe2-04297ee032e2",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "R059II",
+      "employeeId": "9b3173f2-5713-401f-9f2b-701e87a66b9c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4be8c7fd-0b4f-429f-a259-ab784870fc73",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "U53E75",
+      "employeeId": "8e5a6dfc-d8e8-4ddc-82ba-9968e0e728ef",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "75b4101c-8f19-4ccb-bf66-e0ddbd13cdb6",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "LOB8YA",
+      "employeeId": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "26373ca3-d51a-444e-9d9d-021fbaf3669a",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "MOX1WI",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "ba52ef95-13c8-4071-86c0-2cd1171f89b3",
+      "inventoryId": 6,
+      "brand": "Human Scale",
+      "code": "7LDO90",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "f42ec739-efdf-4add-8aa1-67bfb2a1c029",
+      "inventoryId": 6,
+      "brand": "Steelcase",
+      "code": "RCPOJW",
+      "employeeId": "00000000-0000-0000-0000-000000000001",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ac174ede-1680-47f1-8bda-a349f32287e1",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "UXGVAL",
+      "employeeId": "d5d3a5f0-aca7-45ff-a0f6-732cbe8914be",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "4386a7b8-9a83-4ff5-9dd1-a585a513988b",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "WEC8PF",
+      "employeeId": "f381d005-0f3b-4855-a306-3b72a1dfd473",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "0bc279e7-ae3d-4413-8196-8b433605814e",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "RKILIO",
+      "employeeId": "3097e4b8-66df-45c7-98a5-29d70e961c6e",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "a13630c8-1f45-41c2-bf01-1f4ad3bb2a9a",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "YZPT68",
+      "employeeId": "00000000-0000-0000-0000-000000000003",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "cfee03ca-38db-47b2-80e4-0e216fbc9954",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "8OP4SH",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f992c004-a59a-428e-a438-76a762af5f5f",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "1A4TQI",
+      "employeeId": "00000000-0000-0000-0000-000000000003",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "475ebf53-7b45-4a03-af49-85e84a0acb59",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "WJ0M2Y",
+      "employeeId": "07bf010f-d7d1-468a-a408-b58020ece7c4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "acf35d33-bd92-472c-ac50-8d6570aaa3e1",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "D6S6C0",
+      "employeeId": "f75a1058-83ff-4538-a398-08eca2262781",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "774af6bd-ca59-436e-85cb-e6f537354c08",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "N5SG07",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "739b41c8-995c-46cd-a30b-45c01b08c9cc",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "DUARR2",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "13bb7bab-3db4-49bb-9e82-c40f48fe80d4",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "HM8GD4",
+      "employeeId": "0d56f30f-11df-4aed-8e39-c884581c0815",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ec32d693-b17f-4ad6-837a-af73d3f47601",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "MUGZS9",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "afaac1f6-78ec-48cb-b35e-98ea8d70abcb",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "QGCNE9",
+      "employeeId": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "0b35b79a-259f-4554-bb38-64c059005a6f",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "T2TOX2",
+      "employeeId": "4165a21f-477a-4dfb-a39d-7db2b2ccc144",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "2dbb449a-2aad-4fd3-a6fd-0f12cd60d646",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "IPKBRE",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "1a467800-ad71-4152-b261-a37584f8b482",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "QLAKL0",
+      "employeeId": "f75a1058-83ff-4538-a398-08eca2262781",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "ca163b8c-de76-4ad9-9e47-e2ae3e343e64",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "BBKBLB",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "32baa5fa-a71e-455d-b56b-60949e4ca25e",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "A4PB1D",
+      "employeeId": "bf6159df-0591-412f-8a14-c0d7c05c7213",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "7523449b-eb1c-4103-868a-3dd2a268b924",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "U15DAY",
+      "employeeId": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "44d0206f-74b8-4064-a54f-7abc47c42006",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "6TUV38",
+      "employeeId": "293052b3-4cec-423f-9e3e-8cfaf5115220",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "0940168f-4d40-43c6-9e96-2814cb699ff5",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "FE5IFB",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "8d57c730-60c1-467c-9b62-0a407a311e4e",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "AVXUOD",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "e9060306-82bd-41ba-89c7-6b107bfee991",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "3TVME4",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "48758373-a8e7-4fb4-ae6a-1efd7661b4d6",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "8XBFSO",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4d8c8ac9-faea-4d3a-bb04-43a7220b83d7",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "F0C3VK",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "188a27c5-fc59-44ae-b835-1cd93d83c4dd",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "27TR8D",
+      "employeeId": "9c8832d5-9f3c-47c2-9c3b-2c088411f3e7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "6d5f8ce9-316f-4d04-b5b7-988c62e9ce49",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "Z4JRGS",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "93703e6b-881e-477e-880b-e1566b4e3481",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "D7IDNU",
+      "employeeId": "35c2436c-8fa6-4b28-b9ce-e80f32f70c9d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8ad9fa91-eeba-4790-999a-23b79e79337b",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "RR8Z0J",
+      "employeeId": "afda46c7-48fd-47af-a97b-188df12bbfd0",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "96a963f8-7283-4237-9435-85a6e82af900",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "GJT5QO",
+      "employeeId": "bf6159df-0591-412f-8a14-c0d7c05c7213",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d6262c04-f3cd-4c82-8005-9b5a8c6159fa",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "OSVQ8N",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "c14b68d7-2b5a-47be-a2c4-d24bbd98312f",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "IHZXNA",
+      "employeeId": "7d5d88db-7bde-4243-8a40-2bb15f6473be",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b2d7ccdd-ea59-470d-a7e6-a7f86c7d34c5",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "HA9OAA",
+      "employeeId": "d7aeb257-397f-4147-85a0-38babbd7429d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "219b39c6-f275-4394-8513-ace52b820865",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "JXK0RV",
+      "employeeId": "00000000-0000-0000-0000-000000000002",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d1bc646d-c9bf-4312-b95f-ef9bafe454cd",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "YSU1F3",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ce6074fc-797d-41f4-bb89-2183236ae662",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "IUDABO",
+      "employeeId": "bf6159df-0591-412f-8a14-c0d7c05c7213",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4863a6a5-e8af-47b4-a36e-0c4846a0fd0c",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "30QSAU",
+      "employeeId": "6a4d8195-3c20-4e7d-9565-ec12cd7760dd",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "6eae4ba4-809a-4e92-a6ba-ff4778061190",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "4RIX6H",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "1dd5a208-cf62-47be-83e7-c45e91da9705",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "COZXTT",
+      "employeeId": "f381d005-0f3b-4855-a306-3b72a1dfd473",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "a181c08c-5465-4980-837c-b4db4c55acf2",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "9BCSIJ",
+      "employeeId": "8e5a6dfc-d8e8-4ddc-82ba-9968e0e728ef",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "73aa9735-63a6-4ae0-b054-34fc87e91fd2",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "ITXR7D",
+      "employeeId": "a5262082-0e40-4052-ae8d-3f2980d759a1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "0d33ea65-21ef-4138-ac61-59418e9eed2e",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "XO2BJI",
+      "employeeId": "2e6d8304-00bf-47a4-84a7-18c24381b3ab",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "63dde78d-0617-4482-be5b-22196115ae66",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "AFFGW4",
+      "employeeId": "00abd640-e330-417c-94a4-49308a61f713",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f293321c-2dd0-47e8-bb62-af72622e68ab",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "F6EC43",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e696ac75-2b2f-41af-89bd-64705718e24d",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "SBYN09",
+      "employeeId": "6f94ad0d-a700-464f-9358-b8b7a79f62cd",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "120d27d4-37cb-469e-bb17-329a9c0d4b50",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "K11DPO",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "f6d4976b-1582-47d5-8cf4-d15c14d411e9",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "IZRUZ3",
+      "employeeId": "f75a1058-83ff-4538-a398-08eca2262781",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d4b41855-734a-4acf-98c0-f9d5e2f54d2c",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "049FI8",
+      "employeeId": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "16e25eda-b5ad-4c5d-ac1d-a86e06e25989",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "AJM9E9",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "bd37e1f4-93b2-42df-87fe-0c4130585d34",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "CM7KMR",
+      "employeeId": "ed424495-f7d4-4323-b017-b3ec15cb005c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "7eeba842-25b4-4a29-b0bc-b6c9b461f7db",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "4YV10V",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "af04bdf0-1ba3-409a-92ad-aeb1146a68b5",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "MALK45",
+      "employeeId": "71cc00a5-e2d4-4683-bf37-d2c797b6cdcb",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b7f3224b-837e-4b9e-9c77-b30b21aaa7bf",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "9KO5M9",
+      "employeeId": "9b3173f2-5713-401f-9f2b-701e87a66b9c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "40c53412-db58-41ca-a6e8-e66289e64cae",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "NLGYM6",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "03cfcade-6ced-4d8f-bd07-f1b80961ea65",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "TTUVGJ",
+      "employeeId": "95ecc642-e7f3-422f-85cf-3dbc215ce511",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d1f8c40a-7b69-4ad3-8186-19e3c38ca983",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "OJZ7IF",
+      "employeeId": "a5262082-0e40-4052-ae8d-3f2980d759a1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8bc6e91e-0b25-4bfa-aadc-b917ca08102e",
+      "inventoryId": 7,
+      "brand": "Sennheiser",
+      "code": "UD2FWW",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "9993aa8c-61f8-4047-8e63-29538ec5dcac",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "KH6IZF",
+      "employeeId": "3097e4b8-66df-45c7-98a5-29d70e961c6e",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "da395e94-9f8e-417f-bd55-e8eeea8d272d",
+      "inventoryId": 7,
+      "brand": "MSI",
+      "code": "REZ58G",
+      "employeeId": "d7aeb257-397f-4147-85a0-38babbd7429d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5f04c189-2bfe-4958-977e-4df1bfaa5ace",
+      "inventoryId": 7,
+      "brand": "Acer",
+      "code": "T5S7GG",
+      "employeeId": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "d8d05caf-d26b-4e47-b586-fd896524fbd3",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "TBXQZK",
+      "employeeId": "f75a1058-83ff-4538-a398-08eca2262781",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "fae29c0a-c0b0-45a8-bbbe-41eaff16e112",
+      "inventoryId": 7,
+      "brand": "Beats",
+      "code": "K0GGQY",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "5963a517-0630-492e-8703-cae2fdf33fcc",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "T6HGZM",
+      "employeeId": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "da4be076-bc4a-437e-a437-ac3dcb2032b2",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "EZCOW8",
+      "employeeId": "07bf010f-d7d1-468a-a408-b58020ece7c4",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "64222327-885f-4288-8141-6b3a9329209d",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "SFLUUG",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "6f669f6b-878d-4266-8add-2f21ad566311",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "4TMO6V",
+      "employeeId": "fe4065c5-cd40-4b0c-bbd2-ef3872aad318",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "7ca8223d-99ea-42f8-a9ab-e0e718f56abd",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "6GYSFD",
+      "employeeId": "e240bc24-1ccf-48d8-a276-22565adea6d7",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "193550ef-809b-4f8e-92da-a8b558038aa8",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "9DOXRM",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "3486953e-502a-4731-a958-631dfa2e4dc0",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "34SEO6",
+      "employeeId": "0544833d-8528-413e-9a20-e8ac94f936e3",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "594be204-31db-4791-ad3d-6ee3ff0fcdb7",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "JNOHZD",
+      "employeeId": "d41855b8-7e8b-49f4-a2ee-223937d52968",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "aaf35ec1-f2af-4e8c-af45-3418c4b2f74f",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "JRCAA9",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "9b6a33c3-c8d5-403a-a66e-6b8fcce77930",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "F0JD7R",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "1fdc16f9-901c-4c3d-8d69-47cbdc2ebabc",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "KBCEX9",
+      "employeeId": "3b9d30cd-e325-49cd-a677-1046943e7f48",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "bea94016-6538-4038-ad21-c20088769a3f",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "VKVU4Q",
+      "employeeId": "00000000-0000-0000-0000-000000000001",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "ca1ba73c-8f77-4108-a709-97d2a2363e31",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "NTBSSP",
+      "employeeId": "0d56f30f-11df-4aed-8e39-c884581c0815",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "9adb7b9a-deb6-4408-ae3a-4ba714b87fe4",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "OQTXYC",
+      "employeeId": "2e6d8304-00bf-47a4-84a7-18c24381b3ab",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "9a61dcd9-43a7-47f5-a800-f287857a6c43",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "HCX6GI",
+      "employeeId": "bbeb1055-4a10-4147-9339-b56330342112",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "57d5e1b3-a2f4-4f11-9f15-b3b9c312219a",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "JL31GR",
+      "employeeId": "988ed525-40d5-4c20-ab40-52cf4b5488d1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "f4b4f946-f64d-4677-ad57-796832e30c37",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "L1X3DQ",
+      "employeeId": "daf7fc7b-6000-4217-a46b-022642391a12",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "71b4565c-5a55-411d-98ec-2a2589f987e9",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "BM32R4",
+      "employeeId": "d5d3a5f0-aca7-45ff-a0f6-732cbe8914be",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "416a5428-4595-422e-aaab-d5613a654187",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "Z5BWND",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5fa9b2d1-5252-4210-9a08-905e2dcae903",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "I5X6A7",
+      "employeeId": "e240bc24-1ccf-48d8-a276-22565adea6d7",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "36b15379-0f04-422e-8f3a-9e3bc01077d6",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "IYE5W0",
+      "employeeId": "e28f6185-3f08-4ae2-be94-ba6c5947e5e6",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "1ad3cf79-021c-4f28-8269-ac429c8dfd63",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "1W1D4F",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8abb27ea-d604-45a7-b274-002c1bd01659",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "NPT6NY",
+      "employeeId": "bb4ffe0f-e0aa-48a5-b57b-964f4e1d1b24",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "25d9826a-e59c-4975-abea-0d5081c365d7",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "GJ3HC0",
+      "employeeId": "93beb1e2-83ee-4c8d-afc9-97e024d0acbb",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "60c71758-c23b-4b1a-8abf-9de21165b05c",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "KB0LDB",
+      "employeeId": "c4ca8dfe-9ee2-45ad-b2e5-bdb42e0f3e64",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "8ce67aed-9d6e-4082-9586-11326b513637",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "VKIE7K",
+      "employeeId": "b87cf4a7-d2b8-4c02-9a61-22d26bb4dc9c",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b4131490-9d5a-44a4-8ed7-e340804ad331",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "8Q99QD",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ca3ad9a4-d99c-44fd-a377-8f666f35fe09",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "IAZNQ9",
+      "employeeId": "00000000-0000-0000-0000-000000000001",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ad9cfe60-cdf6-40fb-94d9-bfd0f93c09c7",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "V3XSDJ",
+      "employeeId": "8e5a6dfc-d8e8-4ddc-82ba-9968e0e728ef",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "a6ff4f4c-26c1-48f2-b1af-c22d42dd3a91",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "6YVGJM",
+      "employeeId": "f381d005-0f3b-4855-a306-3b72a1dfd473",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "26dea133-8e15-4bd4-8de4-9fe16498a0da",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "GEMKCR",
+      "employeeId": "3097e4b8-66df-45c7-98a5-29d70e961c6e",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "53d1c1de-231e-449e-9a1b-6ba4eb7ce34f",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "TTH42B",
+      "employeeId": "f381d005-0f3b-4855-a306-3b72a1dfd473",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "26e1b777-709b-43a5-9acd-32611ebdca9b",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "O0OOJI",
+      "employeeId": "0d56f30f-11df-4aed-8e39-c884581c0815",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "4143cfa7-e094-4931-b38a-b16085441792",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "H03XUU",
+      "employeeId": "93beb1e2-83ee-4c8d-afc9-97e024d0acbb",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "caeca82b-06b2-4524-9785-e6e8c6eb2456",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "CLMFM8",
+      "employeeId": null,
+      "availability": true,
+      "onLend": false
+    },
+    {
+      "id": "ed9e5cb4-3a0c-4846-b8c8-59b9cf47f7da",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "PVNIQE",
+      "employeeId": "96b9cbeb-de69-497a-b9d6-3830965bbf8d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "ac71ac0d-2171-4256-81db-0f17358a7fc0",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "46GI0V",
+      "employeeId": "2e6d8304-00bf-47a4-84a7-18c24381b3ab",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "c97a6a66-dd88-49c3-90c0-eb02f8a6aa65",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "Y345TN",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e6a77943-92c9-4d68-8527-bb25fb425f1e",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "548Q3K",
+      "employeeId": "3b9d30cd-e325-49cd-a677-1046943e7f48",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "8184b8f3-7820-4b09-a8f8-ee2cd1dac597",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "CK0F9K",
+      "employeeId": "6f94ad0d-a700-464f-9358-b8b7a79f62cd",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "b04f7f81-a131-4486-be2f-d675d732c439",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "F5N8RY",
+      "employeeId": "00000000-0000-0000-0000-000000000003",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "32068853-639f-4dad-af1a-2e9a12ba9626",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "A5C6VX",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "826c57f9-fc68-417f-a886-5f27913a9445",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "AONVN7",
+      "employeeId": "d0bff4ed-f841-4367-951f-a58dc92b4187",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "81655675-e8d4-4012-91f5-f49453ce91a8",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "Y9EPUT",
+      "employeeId": "8709603f-d4ed-4e8f-8f0d-d133b92263bc",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "cbfe6434-516b-4ce3-977d-bdeb4e2c9eb5",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "8IF3IQ",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "a51689e6-51b2-45f8-b6c3-1bd975a44ebd",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "1CO1O7",
+      "employeeId": "2e6d8304-00bf-47a4-84a7-18c24381b3ab",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5dc08ca7-e576-4654-8f00-5b2ae4bb3609",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "JDIEL1",
+      "employeeId": "0b2f2c81-9f5d-475e-aa87-8ff4cda5d45f",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "dc5b31a8-a265-4e9d-99fd-6ae67bb8bf51",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "EO0211",
+      "employeeId": "6a4d8195-3c20-4e7d-9565-ec12cd7760dd",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "6c065589-5f08-4ef3-9fe4-350bd958d127",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "SEGVFN",
+      "employeeId": "037a5ca2-0f63-411f-9fa4-9d6901a18f8a",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "666e59a1-8228-452e-b4cf-58157bccd975",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "R9EFUD",
+      "employeeId": "d5d3a5f0-aca7-45ff-a0f6-732cbe8914be",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "2632c83f-7bba-45f6-b8b3-8e392250f767",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "9NIKTS",
+      "employeeId": "be75a863-e19b-40cd-9e9b-3a746d152e18",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "be6419e8-93d6-44f4-b634-f0ff81e3138d",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "36Y8MW",
+      "employeeId": "6a4d8195-3c20-4e7d-9565-ec12cd7760dd",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "94ba0393-5cbe-4f40-9730-e0d6789304ea",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "6GPDYY",
+      "employeeId": "3206b152-af07-4f7c-8551-59911b5770b2",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "e4962555-0efb-44f3-beb7-166bcebee345",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "NOYKFY",
+      "employeeId": "db45ac0f-d356-4d14-ad00-cb41a1da86c1",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "0797414c-5a1e-40e4-9ac1-339a89ea5ce1",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "RYFDTV",
+      "employeeId": "bf2a1816-ff32-4c4b-bfe7-d85accdb7836",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "d104ebbf-888e-4a58-8e31-278936f9dbd1",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "J9JNQ5",
+      "employeeId": "d7aeb257-397f-4147-85a0-38babbd7429d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "81ecb7ee-2a36-4052-8c17-1dfc3f0d3d48",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "1EK1B6",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "b71abbae-75d5-4a5e-b10d-7a27bb15b495",
+      "inventoryId": 8,
+      "brand": "Razer",
+      "code": "LM32P6",
+      "employeeId": "00000000-0000-0000-0000-000000000003",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "0db84cc5-9ce9-4b1e-89d4-8e9df8902e2f",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "2K5XD2",
+      "employeeId": "96b9cbeb-de69-497a-b9d6-3830965bbf8d",
+      "availability": false,
+      "onLend": false
+    },
+    {
+      "id": "18b35926-a3ef-40c3-a642-8a6df7b91f65",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "6GD9BM",
+      "employeeId": "96b9cbeb-de69-497a-b9d6-3830965bbf8d",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5f33e3f2-81f5-43b9-8d61-3ee42b0c1b18",
+      "inventoryId": 8,
+      "brand": "Microsoft",
+      "code": "S9WA1S",
+      "employeeId": "a445bed2-8a7b-4493-82f5-8f445e71a3b4",
+      "availability": false,
+      "onLend": true
+    },
+    {
+      "id": "5962ace6-cbe6-4326-86fa-88b39f8e8f0c",
+      "inventoryId": 8,
+      "brand": "Logitech",
+      "code": "M426BZ",
+      "employeeId": "0e12aead-103d-4cad-a03a-337b6733e5a0",
+      "availability": false,
+      "onLend": true
+    }
+  ]
+}
